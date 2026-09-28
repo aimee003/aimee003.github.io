@@ -1,0 +1,11 @@
+# This site is meant to be reachable by direct link only.
+#
+# HTML pages are deliberately left crawlable: every page carries a
+# "noindex, nofollow" meta tag, and a crawler has to be able to fetch the page
+# to see it. Blocking pages here instead would hide that tag, and a URL someone
+# links to could still surface in results as a bare link.
+#
+# The resume PDF is different. A meta tag cannot be attached to a PDF, so
+# refusing the crawl is the only control available for it.
+User-agent: *
+Disallow: /Aimee-Liu-Resume.pdf

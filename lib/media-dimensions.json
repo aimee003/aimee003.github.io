@@ -1,0 +1,402 @@
+{
+  "/img/ability-hand-5.jpg": {
+    "height": 1200,
+    "width": 1600
+  },
+  "/img/ability-hand-6.jpg": {
+    "height": 1077,
+    "width": 1437
+  },
+  "/img/about-portrait.jpg": {
+    "height": 1070,
+    "width": 1081
+  },
+  "/img/autonomous-car-1.png": {
+    "width": 363,
+    "height": 373
+  },
+  "/img/autonomous-car-10.jpg": {
+    "height": 1200,
+    "width": 1600
+  },
+  "/img/autonomous-car-2-poster.jpg": {
+    "height": 338,
+    "width": 600
+  },
+  "/img/autonomous-car-3-poster.jpg": {
+    "height": 148,
+    "width": 262
+  },
+  "/img/autonomous-car-4-poster.jpg": {
+    "height": 383,
+    "width": 485
+  },
+  "/img/autonomous-car-5-poster.jpg": {
+    "height": 340,
+    "width": 498
+  },
+  "/img/autonomous-car-6.jpg": {
+    "height": 1301,
+    "width": 2048
+  },
+  "/img/autonomous-car-7.png": {
+    "width": 426,
+    "height": 447
+  },
+  "/img/autonomous-car-8-poster.jpg": {
+    "height": 319,
+    "width": 600
+  },
+  "/img/autonomous-car-9-poster.jpg": {
+    "height": 338,
+    "width": 600
+  },
+  "/img/co-monitor-mask-1.jpg": {
+    "height": 1350,
+    "width": 1264
+  },
+  "/img/co-monitor-mask-2.jpg": {
+    "height": 1471,
+    "width": 1437
+  },
+  "/img/co-monitor-mask-3.jpg": {
+    "height": 1536,
+    "width": 2048
+  },
+  "/img/co-monitor-mask-4.jpg": {
+    "height": 1536,
+    "width": 2048
+  },
+  "/img/co-monitor-mask-5.jpg": {
+    "height": 1536,
+    "width": 2048
+  },
+  "/img/co-monitor-mask-6.jpg": {
+    "height": 1509,
+    "width": 2048
+  },
+  "/img/co-monitor-mask-7.jpg": {
+    "height": 1600,
+    "width": 1385
+  },
+  "/img/fall-risk-3.jpg": {
+    "height": 587,
+    "width": 505
+  },
+  "/img/fall-risk-4-poster.jpg": {
+    "height": 622,
+    "width": 694
+  },
+  "/img/fall-risk-5.png": {
+    "width": 807,
+    "height": 402
+  },
+  "/img/fall-risk-6.png": {
+    "width": 555,
+    "height": 395
+  },
+  "/img/fall-risk-7.png": {
+    "width": 1920,
+    "height": 950
+  },
+  "/img/fall-risk-8.png": {
+    "width": 771,
+    "height": 352
+  },
+  "/img/fishingbot-1.png": {
+    "width": 969,
+    "height": 395
+  },
+  "/img/fishingbot-2.png": {
+    "width": 1774,
+    "height": 870
+  },
+  "/img/fishingbot-3.png": {
+    "width": 1132,
+    "height": 1006
+  },
+  "/img/fishingbot-5.png": {
+    "width": 847,
+    "height": 737
+  },
+  "/img/fishingbot-6-poster.jpg": {
+    "height": 362,
+    "width": 800
+  },
+  "/img/fishingbot-7.png": {
+    "width": 1917,
+    "height": 1078
+  },
+  "/img/fishingbot-8-poster.jpg": {
+    "height": 362,
+    "width": 800
+  },
+  "/img/game-controller-1.jpg": {
+    "height": 2048,
+    "width": 1536
+  },
+  "/img/game-controller-2.png": {
+    "width": 954,
+    "height": 1120
+  },
+  "/img/game-controller-3.jpg": {
+    "height": 542,
+    "width": 1468
+  },
+  "/img/game-controller-4.jpg": {
+    "height": 1536,
+    "width": 2048
+  },
+  "/img/game-controller-5.jpg": {
+    "height": 1365,
+    "width": 2048
+  },
+  "/img/game-controller-8.jpg": {
+    "height": 853,
+    "width": 634
+  },
+  "/img/game-controller-9.jpg": {
+    "height": 858,
+    "width": 639
+  },
+  "/img/hero-presenting.jpg": {
+    "height": 2160,
+    "width": 3022
+  },
+  "/img/leaping-robot-1.png": {
+    "width": 1793,
+    "height": 750
+  },
+  "/img/leaping-robot-2-poster.jpg": {
+    "height": 654,
+    "width": 600
+  },
+  "/img/leaping-robot-3-poster.jpg": {
+    "height": 422,
+    "width": 750
+  },
+  "/img/leaping-robot-4.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "/img/leaping-robot-5.jpg": {
+    "height": 827,
+    "width": 2048
+  },
+  "/img/leaping-robot-6.jpg": {
+    "height": 1536,
+    "width": 2048
+  },
+  "/img/leaping-robot-7-poster.jpg": {
+    "height": 637,
+    "width": 857
+  },
+  "/img/leaping-robot-8.jpg": {
+    "height": 768,
+    "width": 1024
+  },
+  "/img/magnetomicrometry-1.jpg": {
+    "height": 370,
+    "width": 720
+  },
+  "/img/magnetomicrometry-2.jpg": {
+    "height": 600,
+    "width": 900
+  },
+  "/img/motor-test-stand-1.jpg": {
+    "height": 1882,
+    "width": 1125
+  },
+  "/img/motor-test-stand-2.jpg": {
+    "height": 2046,
+    "width": 1187
+  },
+  "/img/motor-test-stand-3.jpg": {
+    "height": 1088,
+    "width": 1284
+  },
+  "/img/motor-test-stand-4.jpg": {
+    "height": 2048,
+    "width": 1536
+  },
+  "/img/neural-implants-3.jpg": {
+    "height": 337,
+    "width": 544
+  },
+  "/img/resume-page1.png": {
+    "width": 1445,
+    "height": 1870
+  },
+  "/img/rf-walkie-talkie-10.jpg": {
+    "height": 1536,
+    "width": 2048
+  },
+  "/img/rf-walkie-talkie-11.png": {
+    "width": 563,
+    "height": 422
+  },
+  "/img/rf-walkie-talkie-12.png": {
+    "width": 745,
+    "height": 670
+  },
+  "/img/rf-walkie-talkie-13.png": {
+    "width": 800,
+    "height": 480
+  },
+  "/img/rf-walkie-talkie-2.jpg": {
+    "height": 2048,
+    "width": 1536
+  },
+  "/img/rf-walkie-talkie-3.jpg": {
+    "height": 2048,
+    "width": 1536
+  },
+  "/img/rf-walkie-talkie-4.png": {
+    "width": 314,
+    "height": 214
+  },
+  "/img/rf-walkie-talkie-5.png": {
+    "width": 983,
+    "height": 548
+  },
+  "/img/rf-walkie-talkie-6.jpg": {
+    "height": 1018,
+    "width": 1358
+  },
+  "/img/rf-walkie-talkie-7.jpg": {
+    "height": 637,
+    "width": 1668
+  },
+  "/img/rf-walkie-talkie-8.jpg": {
+    "height": 777,
+    "width": 1548
+  },
+  "/img/rf-walkie-talkie-9.png": {
+    "width": 798,
+    "height": 413
+  },
+  "/img/robotic-wrist-10.png": {
+    "width": 457,
+    "height": 677
+  },
+  "/img/robotic-wrist-11.png": {
+    "width": 1002,
+    "height": 691
+  },
+  "/img/robotic-wrist-2.jpg": {
+    "height": 686,
+    "width": 446
+  },
+  "/img/robotic-wrist-8.jpg": {
+    "height": 1024,
+    "width": 768
+  },
+  "/img/robotic-wrist-9.jpg": {
+    "height": 768,
+    "width": 1024
+  },
+  "/img/slider-rl-1.jpg": {
+    "height": 534,
+    "width": 374
+  },
+  "/img/slider-rl-2.jpg": {
+    "height": 820,
+    "width": 956
+  },
+  "/img/tactile-sensors-1.jpg": {
+    "height": 1536,
+    "width": 2048
+  },
+  "/img/tactile-sensors-2.jpg": {
+    "height": 1536,
+    "width": 2048
+  },
+  "/img/tactile-sensors-3.jpg": {
+    "height": 2500,
+    "width": 1875
+  },
+  "/img/tactile-sensors-6-poster.jpg": {
+    "height": 450,
+    "width": 800
+  },
+  "/img/ur5-bottle-1.png": {
+    "width": 416,
+    "height": 508
+  },
+  "/img/ur5-bottle-2.png": {
+    "width": 792,
+    "height": 415
+  },
+  "/img/ur5-bottle-3-poster.jpg": {
+    "height": 438,
+    "width": 326
+  },
+  "/img/ur5-bottle-5.jpg": {
+    "height": 2048,
+    "width": 1536
+  },
+  "/img/ur5-bottle-6.jpg": {
+    "height": 2048,
+    "width": 1536
+  },
+  "/img/ur5-bottle-7.jpg": {
+    "height": 682,
+    "width": 1024
+  },
+  "/img/autonomous-car-2.mp4": {
+    "height": 338,
+    "width": 600
+  },
+  "/img/autonomous-car-3.mp4": {
+    "height": 148,
+    "width": 262
+  },
+  "/img/autonomous-car-4.mp4": {
+    "height": 383,
+    "width": 485
+  },
+  "/img/autonomous-car-5.mp4": {
+    "height": 340,
+    "width": 498
+  },
+  "/img/autonomous-car-8.mp4": {
+    "height": 319,
+    "width": 600
+  },
+  "/img/autonomous-car-9.mp4": {
+    "height": 338,
+    "width": 600
+  },
+  "/img/fall-risk-4.mp4": {
+    "height": 622,
+    "width": 694
+  },
+  "/img/fishingbot-6.mp4": {
+    "height": 362,
+    "width": 800
+  },
+  "/img/fishingbot-8.mp4": {
+    "height": 362,
+    "width": 800
+  },
+  "/img/leaping-robot-2.mp4": {
+    "height": 654,
+    "width": 600
+  },
+  "/img/leaping-robot-3.mp4": {
+    "height": 422,
+    "width": 750
+  },
+  "/img/leaping-robot-7.mp4": {
+    "height": 637,
+    "width": 857
+  },
+  "/img/tactile-sensors-6.mp4": {
+    "height": 450,
+    "width": 800
+  },
+  "/img/ur5-bottle-3.mp4": {
+    "height": 438,
+    "width": 326
+  }
+}
