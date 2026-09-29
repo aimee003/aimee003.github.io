@@ -275,17 +275,29 @@
     "width": 798,
     "height": 413
   },
+  "/img/robotic-wrist-1.jpg": {
+    "height": 667,
+    "width": 282
+  },
   "/img/robotic-wrist-10.png": {
     "width": 457,
     "height": 677
   },
-  "/img/robotic-wrist-11.png": {
-    "width": 1002,
-    "height": 691
+  "/img/robotic-wrist-12.jpg": {
+    "height": 1024,
+    "width": 858
   },
   "/img/robotic-wrist-2.jpg": {
     "height": 686,
     "width": 446
+  },
+  "/img/robotic-wrist-6.jpg": {
+    "height": 2500,
+    "width": 1875
+  },
+  "/img/robotic-wrist-7-poster.jpg": {
+    "height": 1280,
+    "width": 720
   },
   "/img/robotic-wrist-8.jpg": {
     "height": 1024,
@@ -390,6 +402,10 @@
   "/img/leaping-robot-7.mp4": {
     "height": 637,
     "width": 857
+  },
+  "/img/robotic-wrist-7.mp4": {
+    "height": 1280,
+    "width": 720
   },
   "/img/tactile-sensors-6.mp4": {
     "height": 450,
